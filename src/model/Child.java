@@ -75,5 +75,6 @@ public class Child{
         "ID: " + id + "\n" + 
         "Deseo de navidad: " + xmasWish + "\n"+
         "Lista: " + type+ "\n";
+        
     }
 }  
